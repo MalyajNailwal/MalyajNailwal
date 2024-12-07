@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malyajnailwal&label=Profile%20views&color=0e75b6&style=flat" alt="malyajnailwal" /> </p>
 
-- 🔭 I’m currently working on **Image Generation using GAN**
+- 🔭 I’m currently working on **Image Generation**
 
 - 🌱 I’m currently learning **Generative AI**
 
