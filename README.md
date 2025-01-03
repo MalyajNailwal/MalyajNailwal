@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 Working on innovative projects.<br>🌱 Exploring Generative AI.<br>💬 Ask me about data science and analytics.<br>📫 Reach me at malyajnailwal@gmail.com.<br>⚡ Fun Fact: Big data" is just "too much data" with better branding 🤷‍♂️
-
-
+🔭 Working on innovative projects.<br>🌱 Exploring Generative AI.<br>💬 Ask me about data science and analytics.<br>📫 Reach me at malyajnailwal@gmail.com.<br>⚡ Fun Fact: Why fix bad data when you can just call it an "anomaly"? 🤷‍♀️✨
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5DBPT8eM) 
 
