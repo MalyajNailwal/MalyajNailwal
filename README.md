@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on innovative projects.<br>🌱 Exploring Generative AI.<br>💬 Ask me about data science and analytics.<br>📫 Reach me at malyajnailwal@gmail.com.<br>⚡ Fun Fact: Tabs over spaces—like optimal solutions over brute force!
+🔭 Working on innovative projects.<br>🌱 Exploring Generative AI.<br>💬 Ask me about data science and analytics.<br>📫 Reach me at malyajnailwal@gmail.com.<br>⚡ Fun Fact: Big data" is just "too much data" with better branding 🤷‍♂️
 
 
 ## 🌐 Socials:
