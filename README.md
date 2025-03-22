@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Working on innovative projects.<br>🌱 Exploring Generative AI.<br>💬 Ask me about data science and analytics.<br>📫 Reach me at heymalyaj@gmail.com
-.<br>⚡ Fun Fact: Why fix bad data when you can just call it an "anomaly"? 🤷‍♀️✨
+.<br>⚡ Fun Fact: Really?
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5DBPT8eM) 
 
