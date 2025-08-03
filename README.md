@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **End-to-end product thinking: UX, APIs, data models, and deployment.**
 
-- 💬 Ask me about **Making tools that teams of real people actually use.**
+- 💬 Ask me about **Making tools that teams and real people actually use.**
 
 - 📫 How to reach me **heymalyaj@gmail.com**
 
