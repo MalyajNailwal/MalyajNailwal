@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building a no-BS tool for smoother field ops checks.**
 
-- 🌱 I’m currently learning **Building a no-BS tool for smoother field ops checks.**
+- 🌱 I’m currently learning **End-to-end product thinking: UX, APIs, data models, and deployment.**
 
 - 💬 Ask me about **Making tools that teams of real people actually use.**
 
