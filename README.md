@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Malyaj Nailwal</h1>
-<h3 align="center">Empowering Insight through Advanced AI and Data Science Solutions</h3>
+<h3 align="center">Turning Data & AI into Functional, Scalable Product Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malyajnailwal&label=Profile%20views&color=0e75b6&style=flat" alt="malyajnailwal" /> </p>
 
-- 🔭 I’m currently working on **Image Generation using GAN**
+- 🔭 I’m currently working on **Building a no-BS tool for smoother field ops checks**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Building a no-BS tool for smoother field ops checks.**
 
-- 💬 Ask me about **Driven by Data, Ready to Deliver: Seeking Opportunities in Analytics and Data Science**
+- 💬 Ask me about **Making tools that teams of real people actually use.**
 
 - 📫 How to reach me **heymalyaj@gmail.com**
 
