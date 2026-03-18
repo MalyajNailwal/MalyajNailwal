@@ -1,6 +1,6 @@
 ## About Me ~
 
-SDE | Scalable Systems • DSA • System Design  
+SDE | Scalable Systems • DSA • System Design
 
 ---
 
