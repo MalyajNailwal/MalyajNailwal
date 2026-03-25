@@ -1,6 +1,6 @@
 ## About Me -
 
-Code • Scale • Orchestrate LLMs
+Code | Scale | Orchestrate LLMs
 
 ---
 
