@@ -1,6 +1,6 @@
 ## About Me -
 
-SDE | Scalable Systems • Multi-LLM Orchestration • AI APIs
+Code • Scale • Orchestrate LLMs
 
 ---
 
