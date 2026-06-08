@@ -2,4 +2,4 @@
 
 Code • Scale • Orchestrate LLMs  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/highonpy?theme=radical&font=Manuale&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/highonpy?theme=radical&font=Manuale&ext=heatmap" width="380"/>
