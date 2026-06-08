@@ -3,6 +3,6 @@
 Code • Scale • Orchestrate LLMs  
 <br>
 
-### Cookbook
+### Flowstate 
 
 <img src="https://leetcard.jacoblin.cool/highonpy?theme=radical&font=Manuale&ext=heatmap" width="380"/>
